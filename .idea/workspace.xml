@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655fe35-26c7-4b10-a2b6-418df1961205" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/REDME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1655fe35-26c7-4b10-a2b6-418df1961205" name="变更" comment="变更" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +76,7 @@
       <updated>1672381326568</updated>
       <workItem from="1672381328685" duration="573000" />
       <workItem from="1672381930727" duration="362000" />
-      <workItem from="1672382325217" duration="3324000" />
+      <workItem from="1672382325217" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1672382412296</created>
@@ -89,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672382412296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="变更">
+      <created>1672386515858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672386515858</updated>
+    </task>
+    <task id="LOCAL-00003" summary="变更">
+      <created>1672386672812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672386672812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +116,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="Git仓库/main" />
                       </list>
                     </value>
                   </entry>
