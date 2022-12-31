@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1655fe35-26c7-4b10-a2b6-418df1961205" name="变更" comment="项目修改完成，提交代码。">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Logging/LoggingImageViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Logging/LoggingImageViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1655fe35-26c7-4b10-a2b6-418df1961205" name="变更" comment="项目修改完成，提交代码。" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +124,7 @@
       <updated>1672381326568</updated>
       <workItem from="1672381328685" duration="573000" />
       <workItem from="1672381930727" duration="362000" />
-      <workItem from="1672382325217" duration="7486000" />
+      <workItem from="1672382325217" duration="8376000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1672382412296</created>
@@ -186,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672394685400</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="项目修改完成，提交代码。">
+      <created>1672399364299</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672399364299</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
